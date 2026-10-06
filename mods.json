@@ -729,10 +729,10 @@
   {
     "id": "headtracking",
     "name": "HeadTracking",
-    "author": "Source not identified",
+    "author": "FrameX",
     "category": "Gameplay",
-    "description": "An installed movement-related component listed as HeadTracking.",
-    "note": "The folder is recorded so it is not omitted. Its exact package, behaviour and author still need the original readme; a similarly named mod has not been substituted.",
+    "description": "A mod for GTA San Andreas that makes the character's (CJ) head dynamically follow the camera direction, adding more immersion and natural movement to the character during gameplay.",
+    "note": "From The Modders Collective Discord server.",
     "links": [],
     "creators": []
   },
