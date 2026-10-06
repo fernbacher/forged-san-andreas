@@ -1,0 +1,1559 @@
+[
+  {
+    "id": "proper-shaders",
+    "name": "Proper Shaders",
+    "author": "Junior_Djjr, Jéssica Natália",
+    "category": "Graphics",
+    "description": "Modern lighting, shadows, reflections and surface rendering. The central graphics upgrade in Forged.",
+    "note": "This build uses the supplied October 2026 Medium presets, with SimulateHDR disabled to work with the chosen SkyGfx colour treatment. Third-party shader credits remain in the original package.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2026/10/sa-proper-shaders/"
+      },
+      {
+        "label": "Developer / current releases",
+        "url": "https://www.patreon.com/djjr"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr",
+      "Jéssica Natália"
+    ]
+  },
+  {
+    "id": "sleekgraphics",
+    "name": "SleekGraphics • preset 2",
+    "author": "pedrowav",
+    "category": "Graphics",
+    "description": "The colour and atmosphere reference for this build, using the second SkyGfx preset alongside its GraphicsTweaker settings.",
+    "note": "Preset 2 is loaded as skygfx1.ini. The buildingPipe and vehiclePipe overrides are commented out for Proper Shaders. The Extended-only stochasticTexturing option is also commented out.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/240759-sleekgraphics.html"
+      }
+    ],
+    "creators": [
+      "pedrowav"
+    ]
+  },
+  {
+    "id": "skygfx",
+    "name": "SkyGfx",
+    "author": "aap, SkyGfx contributors",
+    "category": "Graphics",
+    "description": "Restores console rendering features and supplies the classic San Andreas colour treatment used by the SleekGraphics preset.",
+    "note": "Normal SkyGfx 4.2b is the graphics base documented for this build.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/aap/skygfx"
+      }
+    ],
+    "creators": [
+      "aap",
+      "SkyGfx contributors"
+    ]
+  },
+  {
+    "id": "graphics-tweaker",
+    "name": "GraphicsTweaker",
+    "author": "Junior_Djjr",
+    "category": "Graphics",
+    "description": "Configurable adjustments to the game’s graphics. This collection keeps the settings supplied with SleekGraphics.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2022/09/graphicstweaker/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "timecycle",
+    "name": "[24H] Refixed Original Timecycle",
+    "author": "Horsequaad2122, aap, Dante",
+    "category": "Graphics",
+    "description": "A full-day timecycle based on the original game’s colours, supplying the changing weather and lighting behind the graphics preset.",
+    "note": "The release page credits the original timecycle24 and its fork. Use the supplied pack configuration to retain the intended look.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/238192-24h-refixed-original-timecycle.html"
+      }
+    ],
+    "creators": [
+      "Horsequaad2122",
+      "aap",
+      "Dante"
+    ]
+  },
+  {
+    "id": "rosa",
+    "name": "RoSA Project Evolved",
+    "author": "Jéssica Natália, RoSA contributors",
+    "category": "Graphics",
+    "description": "The main world texture replacement: roads, buildings, signs and surfaces rebuilt around the original art direction.",
+    "note": "September supporter edition in this collection. Evolved is led by Jéssica Natália, building on RoSA by dima001rus and MaKs_IV and the Reborn team. The source page lists the complete texture and legacy credits.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/"
+      }
+    ],
+    "creators": [
+      "Jéssica Natália",
+      "Junior_Djjr",
+      "Jão",
+      "KUSTODIY",
+      "OjTrue",
+      "François Declasse",
+      "Trok",
+      "Eterno",
+      "dima001rus",
+      "MaKs_IV",
+      "RoSA Reborn team"
+    ]
+  },
+  {
+    "id": "player-retex",
+    "name": "Proper Player Retex",
+    "author": "Jéssica Natália, Junior_Djjr, OjTrue, Zeneric, Jão, François Declasse",
+    "category": "Graphics",
+    "description": "Higher-resolution textures for CJ and his clothing, keeping his familiar appearance.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2024/12/proper-player-retex/"
+      }
+    ],
+    "creators": [
+      "Jéssica Natália",
+      "Junior_Djjr",
+      "OjTrue",
+      "Zeneric",
+      "Jão",
+      "François Declasse"
+    ]
+  },
+  {
+    "id": "proper-fixes",
+    "name": "Proper Fixes",
+    "author": "StreetFonso, Hysen, Tripaseca, Junior_Djjr, Jéssica Natália, Aal, MJkun17, KaiQ, Zeneric",
+    "category": "Foundation",
+    "description": "Community fixes for map geometry, textures and other original-game errors. Includes work that helps modern lighting behave correctly on the map.",
+    "note": "Use the RoSA-compatible edition and keep its Mod Loader priority above RoSA. The source page contains additional component credits.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2026/06/sa-proper-fixes/"
+      }
+    ],
+    "creators": [
+      "StreetFonso",
+      "Hysen",
+      "Tripaseca",
+      "Junior_Djjr",
+      "Jéssica Natália",
+      "Aal",
+      "MJkun17",
+      "KaiQ",
+      "Zeneric"
+    ]
+  },
+  {
+    "id": "2dfx",
+    "name": "Project2DFX",
+    "author": "ThirteenAG, TJGM",
+    "category": "Graphics",
+    "description": "Distant light sources and extended visual detail give the skyline more depth after dark.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2020/02/sa-project2dfx/"
+      },
+      {
+        "label": "Project repository",
+        "url": "https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX"
+      }
+    ],
+    "creators": [
+      "ThirteenAG",
+      "TJGM"
+    ]
+  },
+  {
+    "id": "skygrad",
+    "name": "SkyGrad",
+    "author": "Wesser",
+    "category": "Graphics",
+    "description": "Softens visible banding in the sky’s colour gradients.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/"
+      }
+    ],
+    "creators": [
+      "Wesser"
+    ]
+  },
+  {
+    "id": "sa-blur",
+    "name": "SA Blur",
+    "author": "gta.bullet",
+    "category": "Graphics",
+    "description": "Disables the original high-speed blur so driving stays clear.",
+    "note": "Installed as sa-blur.asi in the game directory.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.gtagarage.com/mods/show.php?id=24762"
+      }
+    ],
+    "creators": [
+      "gta.bullet"
+    ]
+  },
+  {
+    "id": "postfx",
+    "name": "Custom PostFX Shaders",
+    "author": "ep1h",
+    "category": "Graphics",
+    "description": "A loader for custom fullscreen post-processing shaders.",
+    "note": "Installed as gta-sa-postfx.asi. The active shader chain depends on the included gta-sa-postfx.cfg; its presence alone does not identify which effects are enabled.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/ep1h/gta-sa-postfx"
+      }
+    ],
+    "creators": [
+      "ep1h"
+    ]
+  },
+  {
+    "id": "drive",
+    "name": "DrIVe Mod",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "Vehicles",
+    "description": "Break a window to steal a car, pick a lock through a minigame, and hotwire parked vehicles. Adds driving actions and animations, including working the steering wheel.",
+    "note": "The lockpicking, window-breaking and driving features are part of this edition. The Fender Ketchup workaround is a temporary 30 FPS cap, not removal of DrIVe.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "vehik",
+    "name": "VehIK 1.2b",
+    "author": "ZZPuma",
+    "category": "Vehicles",
+    "description": "Inverse-kinematics animation brings hands and feet into contact with vehicle controls, including steering and pedals.",
+    "note": "The visible result also depends on the vehicle model’s supported features.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://zzpumazone.blogspot.com/2025/11/vehik.html"
+      }
+    ],
+    "creators": [
+      "ZZPuma"
+    ]
+  },
+  {
+    "id": "vehdeform",
+    "name": "VehDeform 1.3c",
+    "author": "ZZPuma",
+    "category": "Vehicles",
+    "description": "Car bodywork deforms dynamically after impacts.",
+    "note": "This collection uses VehDeform, not the separately discussed LocalDent mod.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://zzpumazone.blogspot.com/2025/06/vehdeform-10-dynamic-vehicle-deformation.html"
+      }
+    ],
+    "creators": [
+      "ZZPuma"
+    ]
+  },
+  {
+    "id": "crash-inertia",
+    "name": "Car Crash Inertia",
+    "author": "Junior_Djjr",
+    "category": "Vehicles",
+    "description": "Adds the possibility of being thrown through the windscreen during a hard collision.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2020/10/car-crash-inertia-v1-1-2-ser-jogado-do-para-brisa/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "trucks",
+    "name": "Trucks with Trailers",
+    "author": "Razzer.exe",
+    "category": "Vehicles",
+    "description": "Adds trucks towing trailers to ordinary traffic.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/231453-trucks-with-trailers.html"
+      }
+    ],
+    "creators": [
+      "Razzer.exe"
+    ]
+  },
+  {
+    "id": "traffic",
+    "name": "Real Traffic Fix",
+    "author": "Junior_Djjr",
+    "category": "Vehicles",
+    "description": "Changes traffic behaviour to address awkward braking, acceleration and reactions around other vehicles.",
+    "note": "The screenshot confirms the folder name, not the exact release. This source is Junior_Djjr’s established version; a different implementation with the same name also exists.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2022/04/real-traffic-fix/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "rear-lights",
+    "name": "Rear Lights Mod",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "Vehicles",
+    "description": "Adds rear-light effects during driving and nitro use.",
+    "note": "Effects and activation conditions are controlled by the included INI.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/199205-rear-lights-mod.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "pns",
+    "name": "Pay’N’Spray Extended",
+    "author": "vladvo",
+    "category": "Vehicles",
+    "description": "Choose vehicle colours and paintjobs, or pay for repairs separately without automatically repainting the car.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/240779-paynspray-extended.html"
+      }
+    ],
+    "creators": [
+      "vladvo"
+    ]
+  },
+  {
+    "id": "taxi",
+    "name": "Taxi Ride",
+    "author": "sarafsuhail",
+    "category": "Vehicles",
+    "description": "Ride as a passenger and let a taxi take you to your destination.",
+    "note": "The installed folder is named Taxi Ride. The linked original project documents its controls and passenger system.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.gtagarage.com/mods/show.php?id=20941"
+      }
+    ],
+    "creators": [
+      "sarafsuhail"
+    ]
+  },
+  {
+    "id": "plane",
+    "name": "Inside the Plane",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "Vehicles",
+    "description": "Adds an interior view during purchased airline journeys between the cities.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/238045-inside-the-aircraft.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "urbanize",
+    "name": "Urbanize",
+    "author": "Junior_Djjr, Jéssica Natália, Urbanize contributors",
+    "category": "World",
+    "description": "Adds ambient people and activities to places that otherwise feel empty, making the streets and public spaces busier.",
+    "note": "Animations and other contributed assets are credited in the original release.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2026/02/urbanize/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr",
+      "Jéssica Natália",
+      "Urbanize contributors"
+    ]
+  },
+  {
+    "id": "busy-peds",
+    "name": "Busy Pedestrians • Peds Events Project",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "World",
+    "description": "Adds everyday pedestrian activities and scenes around San Andreas, from workers to people spending time outdoors.",
+    "note": "Features depend on the installed release and enabled scripts. Its source page maintains the current changelog.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "doorway",
+    "name": "Doorway Life",
+    "author": "LKbosss",
+    "category": "World",
+    "description": "Adds life around doorways and building entrances.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.gtainside.com/sanandreas/mods/207116-doorway-life/"
+      }
+    ],
+    "creators": [
+      "LKbosss"
+    ]
+  },
+  {
+    "id": "rubbish",
+    "name": "Rubbish GTA 4",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "World",
+    "description": "Street litter appears around pedestrian areas, with different kinds of rubbish in different neighbourhoods.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/202872-trash-like-in-gta-4.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "firefly",
+    "name": "Fireflies at Night",
+    "author": "akiri",
+    "category": "World",
+    "description": "Fireflies appear in rural and natural areas after dark.",
+    "note": "Installed under the firefly folder.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/215441-fireflies-at-night-1.1.html"
+      }
+    ],
+    "creators": [
+      "akiri"
+    ]
+  },
+  {
+    "id": "insects",
+    "name": "Insects Mod",
+    "author": "Junior_Djjr",
+    "category": "World",
+    "description": "Small insects appear around the map, with more activity in natural areas than in the city.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2022/08/insects-mod/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "motel",
+    "name": "Motel Mod",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "World",
+    "description": "Use motels to rest, advance time and restore health.",
+    "note": "Additional room features depend on its configuration.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/229680-motel-mod.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "model-variations",
+    "name": "Model Variations",
+    "author": "ViperJohnGR (cjfan_)",
+    "category": "World",
+    "description": "A framework for varying pedestrian, vehicle and weapon models according to configured rules.",
+    "note": "The framework does not itself prove that every optional model pack is installed. Only the variations supplied in this collection are intended.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/ViperJohnGR/ModelVariations"
+      }
+    ],
+    "creators": [
+      "ViperJohnGR (cjfan_)"
+    ]
+  },
+  {
+    "id": "triads",
+    "name": "Friendly Triads and Los Aztecas Fix",
+    "author": "Junior_Djjr",
+    "category": "World",
+    "description": "Makes the Triads and Los Aztecas friendly at the appropriate points in the story.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2021/07/friendly-triads-and-los-aztecas-fix-aliados/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "holster",
+    "name": "The Holster on the Cops",
+    "author": "Artem.1.9.9.6 (ArtemQa146), AverageChan",
+    "category": "World",
+    "description": "Visible holstered sidearms and batons add equipment detail to police officers.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/219132-the-holster-on-the-cops.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)",
+      "AverageChan"
+    ]
+  },
+  {
+    "id": "store-robbery",
+    "name": "Store Robbery v3",
+    "author": "TrushinVlad",
+    "category": "Gameplay",
+    "description": "Adds shop robberies inspired by GTA V.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/109749-store-robbery-like-in-gta-v-v3-updated.html"
+      }
+    ],
+    "creators": [
+      "TrushinVlad"
+    ]
+  },
+  {
+    "id": "manual-driveby",
+    "name": "Manual DriveBy Refixed",
+    "author": "CatchyKetchup, ThirteenAG, Junior_Djjr, Zacthe_nerd",
+    "category": "Gameplay",
+    "description": "Free aiming and shooting from vehicles, with support for additional weapon types.",
+    "note": "CatchyKetchup’s revised edition builds on Manual Driveby Remake.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/213857-manual-driveby-refixed.html"
+      }
+    ],
+    "creators": [
+      "CatchyKetchup",
+      "ThirteenAG",
+      "Junior_Djjr",
+      "Zacthe_nerd"
+    ]
+  },
+  {
+    "id": "ultimate-fp",
+    "name": "UltimateFP",
+    "author": "peter_99",
+    "category": "Gameplay",
+    "description": "Optional first-person camera for on-foot play, vehicles and scripted sequences.",
+    "note": "The camera can be switched in game. It is still a developing mod; the release page links the author’s current builds.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/239321-ultimate-first-person-beta.html"
+      }
+    ],
+    "creators": [
+      "peter_99"
+    ]
+  },
+  {
+    "id": "sleekmovement",
+    "name": "SleekMovement",
+    "author": "pedrowav",
+    "category": "Gameplay",
+    "description": "Movement and camera changes intended to give classic San Andreas a more modern feel.",
+    "note": "The author’s showcase is linked here. The download shared during setup was in The Modders Collective Discord.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.youtube.com/watch?v=ZtMc7nCJsPM"
+      },
+      {
+        "label": "The Modders Collective",
+        "url": "https://discord.gg/UT4FVwWqxP"
+      }
+    ],
+    "creators": [
+      "pedrowav"
+    ]
+  },
+  {
+    "id": "leeds",
+    "name": "SA.LeedsMoveset",
+    "author": "Flentric",
+    "category": "Gameplay",
+    "description": "Brings movement behaviour inspired by the Stories games to San Andreas.",
+    "note": "Used alongside the adapted animation set selected during setup. Avoid replacing the pack’s animation files with a second complete set.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/Flentric/SA.LeedsMoveset"
+      }
+    ],
+    "creators": [
+      "Flentric"
+    ]
+  },
+  {
+    "id": "animations",
+    "name": "eCoJ’s Mix of GTA 5 Anims",
+    "author": "eCoJ, credited animation contributors",
+    "category": "Gameplay",
+    "description": "The selected character animation mix, stored in the Animations folder.",
+    "note": "The source package has the individual animation credits. This entry follows the animation set selected during setup; the folder name alone does not establish its exact revision.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/236691-ecojs-mix-of-gta-5-anims.html"
+      }
+    ],
+    "creators": [
+      "eCoJ",
+      "credited animation contributors"
+    ]
+  },
+  {
+    "id": "improvedmove",
+    "name": "ImprovedMove",
+    "author": "Junior_Djjr",
+    "category": "Gameplay",
+    "description": "Adjusts movement and animation blending, with configurable transitions and movement behaviour.",
+    "note": "Present again in the latest inventory, despite having been removed during an earlier round of testing.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2021/08/improvedmove/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "camera",
+    "name": "Camera Settings",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "Gameplay",
+    "description": "Adjusts camera position, distance and tilt, with optional motion during driving and crashes.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/210784-camera-settings.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "headtracking",
+    "name": "HeadTracking",
+    "author": "Source not identified",
+    "category": "Gameplay",
+    "description": "An installed movement-related component listed as HeadTracking.",
+    "note": "The folder is recorded so it is not omitted. Its exact package, behaviour and author still need the original readme; a similarly named mod has not been substituted.",
+    "links": [],
+    "creators": []
+  },
+  {
+    "id": "shakefx",
+    "name": "SA ShakeFX",
+    "author": "zFlowy, Birds",
+    "category": "Gameplay",
+    "description": "Camera reactions for driving, gunfire, close passes and hard landings.",
+    "note": "Individual effects are configurable.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/232946-sa-shakefx.html"
+      }
+    ],
+    "creators": [
+      "zFlowy",
+      "Birds"
+    ]
+  },
+  {
+    "id": "deathcam",
+    "name": "SA.StoriesDeathCam",
+    "author": "Flentric",
+    "category": "Gameplay",
+    "description": "A death-camera modification inspired by the Stories games.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/Flentric/SA.StoriesDeathCam"
+      }
+    ],
+    "creators": [
+      "Flentric"
+    ]
+  },
+  {
+    "id": "health",
+    "name": "Smart Health Recovery",
+    "author": "peter_99",
+    "category": "Gameplay",
+    "description": "Configurable health recovery intended to fit normal play.",
+    "note": "Listed as Smart_Health_Recovery in the installed collection. Recovery behaviour follows the supplied configuration.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/235058-smart-health-regeneration.html"
+      }
+    ],
+    "creators": [
+      "peter_99"
+    ]
+  },
+  {
+    "id": "clothes",
+    "name": "Faster Clothes Change",
+    "author": "Junior_Djjr",
+    "category": "Gameplay",
+    "description": "Skips CJ repeatedly walking into and out of the changing room while you try on clothes.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa-rapidamente/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "food",
+    "name": "Food Eating Fix",
+    "author": "Junior_Djjr, M. Osborn, Renato Russo",
+    "category": "Gameplay",
+    "description": "Shows the appropriate food in CJ’s hand during eating animations.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2019/04/food-eating-fix-v1-2-comida-visivel-enquanto-come/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr",
+      "M. Osborn",
+      "Renato Russo"
+    ]
+  },
+  {
+    "id": "weapons",
+    "name": "Faithful Weapons Pack",
+    "author": "ThePedro004, credited weapon artists",
+    "category": "Weapons",
+    "description": "Replaces the weapon set with more detailed models chosen to resemble the originals.",
+    "note": "Compilation by ThePedro004. Individual model authors are listed in each weapon’s credits.txt; the source also credits nadalao, Firefly and Ezekiel.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2020/07/faithful-weapons-pack-2-0-pack-de-armas-fieis/"
+      }
+    ],
+    "creators": [
+      "ThePedro004",
+      "credited weapon artists"
+    ]
+  },
+  {
+    "id": "neutral-grip",
+    "name": "Neutral Grip",
+    "author": "void",
+    "category": "Weapons",
+    "description": "Changes the neutral hold used by suitable weapons for the player and pedestrians.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/242954-neutral-grip.html"
+      }
+    ],
+    "creators": [
+      "void"
+    ]
+  },
+  {
+    "id": "weapon-details",
+    "name": "Weapon Details • Light Version",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "Weapons",
+    "description": "Adds visual detail to weapon handling and moving parts.",
+    "note": "This collection uses the Light Version. Do not assume all features of the full release are enabled.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/200595-weapon-details.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "weapon-change",
+    "name": "Weapon Change Anim Fixed",
+    "author": "Razor1096, Alvian9xpro, Artem, TheNoiceCat",
+    "category": "Weapons",
+    "description": "Adds and fixes animations for drawing and changing weapons.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/228692-weapon-change-anim-fixed.html"
+      }
+    ],
+    "creators": [
+      "Razor1096",
+      "Alvian9xpro",
+      "Artem",
+      "TheNoiceCat"
+    ]
+  },
+  {
+    "id": "spread",
+    "name": "Spread Fix",
+    "author": "Ryosuke839",
+    "category": "Weapons",
+    "description": "Corrects the original circular bullet-spread pattern.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/"
+      }
+    ],
+    "creators": [
+      "Ryosuke839"
+    ]
+  },
+  {
+    "id": "faithful-sounds",
+    "name": "Faithful Weapons Sounds Pack",
+    "author": "Strelok, Navaro, ThePedro004",
+    "category": "Audio",
+    "description": "Replacement weapon sounds supplied with the Faithful Weapons Pack.",
+    "note": "This is the sound component of the weapon pack, kept as a separate Mod Loader folder.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2020/07/faithful-weapons-pack-2-0-pack-de-armas-fieis/"
+      }
+    ],
+    "creators": [
+      "Strelok",
+      "Navaro",
+      "ThePedro004"
+    ]
+  },
+  {
+    "id": "uncompressed",
+    "name": "Uncompressed SFX Pack",
+    "author": "MrFinger, Matt1010",
+    "category": "Audio",
+    "description": "Higher-quality source recordings for many of the original sound effects, including numerous vehicle engines.",
+    "note": "Coverage is extensive, but it does not replace every sound in the game.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://gtaforums.com/topic/957917-sa-uncompressed-sfx-pack/"
+      }
+    ],
+    "creators": [
+      "MrFinger",
+      "Matt1010"
+    ]
+  },
+  {
+    "id": "handling-sounds",
+    "name": "Weapon Handling Sounds",
+    "author": "pedrowav, Infinity Ward",
+    "category": "Audio",
+    "description": "Adds sounds when handling, aiming and switching weapons.",
+    "note": "Script by pedrowav; audio credits include Infinity Ward’s Modern Warfare (2019). Weapon switching uses Weapon Change Anim Fixed.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/235613-weapon-handling-sounds.html"
+      }
+    ],
+    "creators": [
+      "pedrowav",
+      "Infinity Ward"
+    ]
+  },
+  {
+    "id": "radio-effects",
+    "name": "Radio Effects",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "Audio",
+    "description": "Radio interference and interruption effects give in-car audio more context.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/217842-radio-effects.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "rain-audio",
+    "name": "Rain Audio Fix",
+    "author": "Ezekiel, Junior_Djjr",
+    "category": "Audio",
+    "description": "New rain and thunder audio, including rain heard inside interiors.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/"
+      }
+    ],
+    "creators": [
+      "Ezekiel",
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "sleekui",
+    "name": "SleekUI",
+    "author": "pedrowav",
+    "category": "Interface",
+    "description": "The main interface overhaul, with redesigned HUD elements, animated counters and modern presentation.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/231561-fomod-sleekui-2-6-modern-interface.html"
+      },
+      {
+        "label": "Nexus Mods",
+        "url": "https://www.nexusmods.com/gtasanandreas/mods/2944"
+      }
+    ],
+    "creators": [
+      "pedrowav"
+    ]
+  },
+  {
+    "id": "sleekconfig",
+    "name": "SleekConfig",
+    "author": "pedrowav",
+    "category": "Interface",
+    "description": "Configuration component accompanying the Sleek mods.",
+    "note": "Kept as part of the supplied Sleek setup, not presented as a separate visual overhaul.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/231561-fomod-sleekui-2-6-modern-interface.html"
+      }
+    ],
+    "creators": [
+      "pedrowav"
+    ]
+  },
+  {
+    "id": "hitmarkers",
+    "name": "SleekHitmarkers",
+    "author": "pedrowav",
+    "category": "Interface",
+    "description": "Visual hit feedback during combat.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/230896-fomod-sleekhitmarkers.html"
+      }
+    ],
+    "creators": [
+      "pedrowav"
+    ]
+  },
+  {
+    "id": "crosshairs",
+    "name": "CustomCrosshairs v2",
+    "author": "HzanRsxa2959, DK22Pac",
+    "category": "Interface",
+    "description": "Allows different crosshair textures for individual weapons.",
+    "note": "HzanRsxa2959 is the author; DK22Pac is credited for assistance.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2022/04/customcrosshairs-personalizar-miras/"
+      }
+    ],
+    "creators": [
+      "HzanRsxa2959",
+      "DK22Pac"
+    ]
+  },
+  {
+    "id": "damage-mark",
+    "name": "Damage Mark",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "Interface",
+    "description": "An on-screen marker points towards the source of incoming damage.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/206635-damage-indicator-on-screen.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "reload",
+    "name": "On-Screen Reloading",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "Interface",
+    "description": "Displays reloading feedback on screen.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/231464-on-screen-reloading.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "replenishment",
+    "name": "On-Screen Replenishment",
+    "author": "Artem.1.9.9.6 (ArtemQa146)",
+    "category": "Interface",
+    "description": "Shows the amount of ammo, health, armour or money gained.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/233774-on-screen-replenishment.html"
+      }
+    ],
+    "creators": [
+      "Artem.1.9.9.6 (ArtemQa146)"
+    ]
+  },
+  {
+    "id": "key-icons",
+    "name": "PC Key Icons",
+    "author": "emil6strutui, Rizenberg",
+    "category": "Interface",
+    "description": "Keyboard icons for on-screen control prompts.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/244081-pc-key-icons.html"
+      }
+    ],
+    "creators": [
+      "emil6strutui",
+      "Rizenberg"
+    ]
+  },
+  {
+    "id": "more-radar",
+    "name": "More Radar Icons",
+    "author": "Junior_Djjr, Rill24_ (iceman_)",
+    "category": "Interface",
+    "description": "Adds map and radar markers for more places around the state.",
+    "note": "Present in the latest inventory. The site records the current collection, not the earlier UI experiments.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/218226-more-radar-icons.html"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr",
+      "Rill24_ (iceman_)"
+    ]
+  },
+  {
+    "id": "wanted-radar",
+    "name": "Wanted Radar Warning",
+    "author": "Neon",
+    "category": "Interface",
+    "description": "The radar flashes to draw attention to your wanted status.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2020/11/wanted-radar-warning-mapa-piscando-ao-ser-procurado/"
+      }
+    ],
+    "creators": [
+      "Neon"
+    ]
+  },
+  {
+    "id": "weapon-wheel",
+    "name": "Void Weapon Wheel 1.5",
+    "author": "void",
+    "category": "Interface",
+    "description": "A radial weapon selector with mouse and gamepad support.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/211490-void-weapon-wheel.html"
+      }
+    ],
+    "creators": [
+      "void"
+    ]
+  },
+  {
+    "id": "radio-wheel",
+    "name": "Void Radio Wheel 0.7 Beta",
+    "author": "void",
+    "category": "Interface",
+    "description": "A radial selector for radio stations, including user tracks.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/212112-void-radio-wheel.html"
+      }
+    ],
+    "creators": [
+      "void"
+    ]
+  },
+  {
+    "id": "font",
+    "name": "Mobile Font Fixed",
+    "author": "Junior_Djjr, Rockstar Games",
+    "category": "Interface",
+    "description": "A corrected version of the sharper font from the mobile release.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr",
+      "Rockstar Games"
+    ]
+  },
+  {
+    "id": "loadscreens",
+    "name": "Loadscreens 2K Definitive",
+    "author": "Jéssica Natália, Junior_Djjr",
+    "category": "Interface",
+    "description": "Widescreen loading artwork in higher resolution, based on the classic illustrations.",
+    "note": "The source offers 2K and 4K variants. The installed folder identifies the 2K edition. Original artwork by Rockstar; additional thanks to Paul_Babon.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/"
+      }
+    ],
+    "creators": [
+      "Jéssica Natália",
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "essentials",
+    "name": "Essentials Pack",
+    "author": "MixMods, component authors",
+    "category": "Foundation",
+    "description": "The base collection of loaders and essential PC fixes used by the pack.",
+    "note": "The key components confirmed in the setup are also credited individually below.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2019/06/sa-essentials-pack/"
+      }
+    ],
+    "creators": [
+      "MixMods"
+    ]
+  },
+  {
+    "id": "modloader",
+    "name": "Mod Loader",
+    "author": "Link2012",
+    "category": "Foundation",
+    "description": "Loads and prioritises replacement files from separate mod folders.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/thelink2012/modloader"
+      }
+    ],
+    "creators": [
+      "Link2012"
+    ]
+  },
+  {
+    "id": "silentpatch",
+    "name": "SilentPatch",
+    "author": "Silent",
+    "category": "Foundation",
+    "description": "Fixes a wide range of original PC bugs and technical issues.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/CookiePLMonster/SilentPatch"
+      }
+    ],
+    "creators": [
+      "Silent"
+    ]
+  },
+  {
+    "id": "widescreen",
+    "name": "Widescreen Fix",
+    "author": "ThirteenAG, contributors",
+    "category": "Foundation",
+    "description": "Corrects widescreen presentation and related display issues.",
+    "note": "Included through _ESSENTIALS.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/ThirteenAG/WidescreenFixesPack"
+      }
+    ],
+    "creators": [
+      "ThirteenAG",
+      "contributors"
+    ]
+  },
+  {
+    "id": "windowed",
+    "name": "Windowed Mode",
+    "author": "ThirteenAG",
+    "category": "Foundation",
+    "description": "Controls windowed and borderless display behaviour.",
+    "note": "The fullscreen configuration used in this collection was adjusted during setup.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/ThirteenAG/III.VC.SA.WindowedMode"
+      }
+    ],
+    "creators": [
+      "ThirteenAG"
+    ]
+  },
+  {
+    "id": "vigilante",
+    "name": "Framerate Vigilante",
+    "author": "GTAmodding contributors",
+    "category": "Foundation",
+    "description": "Addresses framerate-dependent behaviour and supplies a configurable FPS cap.",
+    "note": "For Fender Ketchup, set FPSlimit = 30 in [Settings], restart the game and replay the mission. Restore your previous value afterwards.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/GTAmodding/FramerateVigilante"
+      }
+    ],
+    "creators": [
+      "GTAmodding contributors"
+    ]
+  },
+  {
+    "id": "ginput",
+    "name": "GInput",
+    "author": "Silent",
+    "category": "Foundation",
+    "description": "Improved controller support, also used by mods that offer gamepad controls.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://gtaforums.com/topic/562765-ginput/"
+      }
+    ],
+    "creators": [
+      "Silent"
+    ]
+  },
+  {
+    "id": "cleo",
+    "name": "CLEO",
+    "author": "CLEO Library team",
+    "category": "Foundation",
+    "description": "Runs the custom scripts used throughout the collection.",
+    "note": "The installed CLEO support plugins include FileSystem Operations, IniFiles and IntOperations.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://cleo.li/"
+      }
+    ],
+    "creators": [
+      "CLEO Library team"
+    ]
+  },
+  {
+    "id": "cleo-plus",
+    "name": "CLEO+",
+    "author": "Junior_Djjr",
+    "category": "Foundation",
+    "description": "Additional scripting functions required by many of the gameplay and world mods.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/JuniorDjjr/CLEOPlus"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "newopcodes",
+    "name": "NewOpcodes",
+    "author": "DK22Pac",
+    "category": "Foundation",
+    "description": "Additional CLEO commands used by the interface and other scripted mods.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/cleolibrary/NewOpcodes"
+      }
+    ],
+    "creators": [
+      "DK22Pac"
+    ]
+  },
+  {
+    "id": "effectloader",
+    "name": "Effect Loader",
+    "author": "DK22Pac",
+    "category": "Foundation",
+    "description": "Loads separate effect definitions without replacing the whole effects file.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/DK22Pac/effects-loader"
+      }
+    ],
+    "creators": [
+      "DK22Pac"
+    ]
+  },
+  {
+    "id": "ola",
+    "name": "Open Limit Adjuster",
+    "author": "Link2012, GTAmodding contributors",
+    "category": "Foundation",
+    "description": "Expands selected engine limits for a larger modded installation.",
+    "note": "",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2022/10/open-limit-adjuster/"
+      },
+      {
+        "label": "Project repository",
+        "url": "https://github.com/GTAmodding/III.VC.SA.LimitAdjuster"
+      }
+    ],
+    "creators": [
+      "Link2012",
+      "GTAmodding contributors"
+    ]
+  },
+  {
+    "id": "streaming",
+    "name": "Improved Streaming",
+    "author": "Junior_Djjr, ThirteenAG",
+    "category": "Foundation",
+    "description": "Changes how game assets are kept and loaded in memory.",
+    "note": "Kept in the latest collection. Initial loading and streaming stutter are still observed; no new memory configuration is claimed for this edition.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2026/07/improved-streaming/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr",
+      "ThirteenAG"
+    ]
+  },
+  {
+    "id": "mixsets",
+    "name": "MixSets",
+    "author": "Junior_Djjr",
+    "category": "Foundation",
+    "description": "Used here for the exit-crash workaround.",
+    "note": "The setup selected the all-disabled preset, enabled the mod, and set SkipShutdown = 1. This skips shutdown cleanup; it does not diagnose or repair gameplay crashes.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2022/03/sa-mixsets/"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "ped-task",
+    "name": "Ped Task Crash Fix",
+    "author": "Tornholio",
+    "category": "Foundation",
+    "description": "Guards against two specific crashes involving invalid pedestrian-task pointers.",
+    "note": "A targeted protection for those crashes, not a guarantee that every animation or pedestrian mod is compatible.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://libertycity.net/files/gta-san-andreas/240652-ped-task-crash-fix.html"
+      }
+    ],
+    "creators": [
+      "Tornholio"
+    ]
+  },
+  {
+    "id": "shopping-limit",
+    "name": "ShoppingDat Limit Adjuster",
+    "author": "Source not identified",
+    "category": "Foundation",
+    "description": "The installed shopping-data limit plugin is retained in the inventory.",
+    "note": "Recorded as ShoppingDatLimitAdjusterSA.asi. Its original author and release page still need confirmation from the included readme.",
+    "links": [],
+    "creators": []
+  },
+  {
+    "id": "crashinfo",
+    "name": "CrashInfo",
+    "author": "Junior_Djjr",
+    "category": "Foundation",
+    "description": "Records crash information to help diagnose problems.",
+    "note": "A diagnostic component rather than a crash-prevention mod.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://github.com/JuniorDjjr/CrashInfo"
+      }
+    ],
+    "creators": [
+      "Junior_Djjr"
+    ]
+  },
+  {
+    "id": "nodep",
+    "name": "NoDEP",
+    "author": "Fabio",
+    "category": "Foundation",
+    "description": "Compatibility component included as _noDEP.asi.",
+    "note": "Loaded from the game directory as part of the support files.",
+    "links": [
+      {
+        "label": "Creator / source page",
+        "url": "https://www.mixmods.com.br/2015/03/nodep-desativar-dep/"
+      }
+    ],
+    "creators": [
+      "Fabio"
+    ]
+  }
+]
